@@ -1,2 +1,4 @@
 # Z-ML2P
-Code for ACCV2018, Zero-Shot Facial Expression Recognition with Multi-Label Label Propagation
+This is the code for ACCV2018 Paper, 'Zero-Shot Facial Expression Recognition with Multi-Label Label Propagation'.
+
+The code and dataset will be released soon.
