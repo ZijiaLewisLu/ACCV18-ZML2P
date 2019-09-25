@@ -1,0 +1,6 @@
+@inproceedings{Z-ML2P,
+   author ={Lu, Zijia and Zeng, Jiabei and Shan, Shiguang and Chen, Xilin},
+   title = {Zero-Shot Facial Expression Recognition with Multi-Label Label Propagation},
+   journal = {ACCV},
+   year = {2018}
+}
