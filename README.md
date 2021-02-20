@@ -3,4 +3,7 @@ This is the code for ACCV2018 Paper, 'Zero-Shot Facial Expression Recognition wi
 
 ![image](res/figure1.png)
 
-The code and dataset will be released soon.
+FaceME Dataset Page: https://zijialewislu.github.io/Z-ML2P/. 
+
+The code will be released soon.
+
