@@ -3,5 +3,7 @@ This is the code for ACCV2018 Paper, 'Zero-Shot Facial Expression Recognition wi
 
 You can download FaceME dataset from this page: https://zijialewislu.github.io/Z-ML2P/. 
 
+You can also find the paper in this repo: https://github.com/ZijiaLewisLu/ACCV08-ZML2P/blob/master/paper.pdf.
+
 ![image](res/figure1.png)
 
